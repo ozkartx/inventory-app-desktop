@@ -1,1 +1,1 @@
-# inventory-app-desktop
+Inventory System
